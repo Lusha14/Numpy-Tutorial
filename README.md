@@ -6,31 +6,31 @@ Welcome to the NumPy Tutorial repository! This tutorial is designed to introduce
 Table of Contents
 1.Introduction to NumPy
 
-2.Overview of NumPy
-Installing NumPy
-Importing NumPy
-NumPy Arrays
+2.Overview of NumPy-
+Installing NumPy, 
+Importing NumPy, 
+NumPy Arrays, 
 
-3.Creating Arrays
-Array Indexing and Slicing
-Array Shape and Reshape
-Array Operations
+3.Creating Arrays-
+Array Indexing and Slicing, 
+Array Shape and Reshape, 
+Array Operations, 
 
-4.Basic Arithmetic Operations
-Statistical Operations
-Broadcasting
-Advanced Topics
+4.Basic Arithmetic Operations-
+Statistical Operations, 
+Broadcasting, 
+Advanced Topics, 
 
-5.NumPy Random Module
-Linear Algebra with NumPy
-NumPy and Matplotlib Integration
-Use Cases and Examples
+5.NumPy Random Module-
+Linear Algebra with NumPy, 
+NumPy and Matplotlib Integration, 
+Use Cases and Examples, 
 
-Practical Examples
-Real-World Applications
+Practical Examples-
+Real-World Applications, 
 Resources and Further Reading
 
 Getting Started
 To get started with this tutorial, you will need to have Python and NumPy installed. You can install NumPy using pip:
 
-pip install numpy
+"pip install numpy"
